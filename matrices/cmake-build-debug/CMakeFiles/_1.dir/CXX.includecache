@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oleg/Desktop/HW/parralel/#1/main.cpp
+iostream
+-
+matrix.h
+/home/oleg/Desktop/HW/parralel/#1/matrix.h
+
+/home/oleg/Desktop/HW/parralel/#1/matrix.h
+iostream
+-
+cmath
+-
+iomanip
+-
+fstream
+-
+ctime
+-
+functional
+-
+thread
+-
+

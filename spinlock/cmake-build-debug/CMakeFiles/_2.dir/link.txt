@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/_2.dir/main.cpp.o CMakeFiles/_2.dir/spinlock_TAS.cpp.o CMakeFiles/_2.dir/spinlock_TTAS.cpp.o CMakeFiles/_2.dir/ticket_lock.cpp.o -o _2  -pthread 
